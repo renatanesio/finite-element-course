@@ -1,4 +1,4 @@
-'''Test integration using the quadrature module.'''
+"""Test integration using the quadrature module."""
 import pytest
 from fe_utils import gauss_quadrature, ReferenceTriangle, ReferenceInterval
 
